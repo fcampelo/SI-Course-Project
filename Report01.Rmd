@@ -20,7 +20,7 @@ Note that for point 3, focus on the difference between the distribution of a lar
 
 ## Solution
 
-I'll address the three points defined in the previous sectoin sequentially. First, I'll define the fixed parameters that will be used for this simulation exercise:
+I'll address the three points defined in the previous section sequentially. First, I'll define the fixed parameters that will be used for this simulation exercise:
 
 ```{r define}
 # Set the seed for the PRNG (for reproducibility)
